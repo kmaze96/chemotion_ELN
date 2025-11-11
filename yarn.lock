@@ -2409,10 +2409,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@novnc/novnc@~1.5.0":
-  version "1.5.0"
-  resolved "https://registry.yarnpkg.com/@novnc/novnc/-/novnc-1.5.0.tgz#7df3e4aca48eaa7c0d6f690e7dee89480232e2f1"
-  integrity sha512-4yGHOtUCnEJUCsgEt/L78eeJu00kthurLBWXFiaXfonNx0pzbs6R/3gJb1byZe6iAE8V9MF0syQb0xIL8MSOtQ==
+"@novnc/novnc@~1.6.0":
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/@novnc/novnc/-/novnc-1.6.0.tgz#e68ac47d8d4151a34a80f408b5ffa3af5e4780d2"
+  integrity sha512-CJrmdSe9Yt2ZbLsJpVFoVkEu0KICEvnr3njW25Nz0jodaiFJtg8AYLGZogRYy0/N5HUWkGUsCmegKXYBSqwygw==
 
 "@npmcli/arborist@^5.6.3":
   version "5.6.3"
