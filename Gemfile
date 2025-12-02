@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 
 gem 'aasm'
 gem 'activejob-status'
-gem 'activerecord-nulldb-adapter'
+gem 'activerecord-nulldb-adapter', '>= 1.2.0'
 gem 'ancestry'
 gem 'api-pagination'
 gem 'caxlsx'
