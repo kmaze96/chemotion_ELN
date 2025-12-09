@@ -100,7 +100,7 @@
     "sha256": "^0.2.0",
     "shakapacker": "~8.3.0",
     "spark-md5": "^3.0.1",
-    "svgedit": "^7.3.0",
+    "svgedit": "^7.4.0",
     "terser-webpack-plugin": "5",
     "util": "^0.12.5",
     "uuid": "^3.3.2",
