@@ -45,7 +45,7 @@ gem 'graphql', '< 2.2'
 
 gem 'haml-rails'
 gem 'hashie-forbidden_attributes'
-gem 'httparty'
+gem 'httparty', '>= 0.24.0'
 
 gem 'icalendar'
 gem 'image_processing', '~> 1.8'
@@ -57,7 +57,7 @@ gem 'jwt'
 gem 'kaminari'
 gem 'kaminari-grape'
 
-gem 'labimotion', '2.0.0'
+gem 'labimotion', '2.0.1'
 gem 'logidze'
 
 gem 'mimemagic', '0.3.10'
