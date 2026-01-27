@@ -21,7 +21,7 @@ gem 'countries'
 gem 'daemons'
 gem 'delayed_cron_job'
 gem 'delayed_job_active_record'
-gem 'devise'
+gem 'devise', '>= 5.0.0'
 gem 'dotenv-rails', require: 'dotenv/rails-now'
 
 gem 'ed25519'
